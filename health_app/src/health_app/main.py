@@ -58,6 +58,8 @@ def save_and_quit():
     print("Saving and quitting!")
     exit()
 
+
+#          PROGRAM INITIALIZER
 while True:
     print("1. Add a health record")
     print("2. View all health records")
